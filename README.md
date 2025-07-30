@@ -27,9 +27,8 @@ The dataset used in this project is sourced from NASA and contains information a
 - **is_hazardous**: A binary indicator of whether the NEO is considered hazardous (true) or not (false).
 
 ### Data Cleaning and Preprocessing:
-- **Handling Missing Values**: Missing values in numerical columns were filled with the mean.
+- **Handling Missing Values**: Drop null values as its perecntage of the whole data is very small
 - **Checking for Duplicates**: Duplicate values were checked and handled.
-- **Encoding Categorical Variables**: The 'orbiting_body' column was encoded using LabelEncoder.
 - **Handling Imbalanced Classes**: SMOTE (Synthetic Minority Over-sampling Technique) was used to handle class imbalance.
 - **Standardizing Numerical Features**: Numerical features were standardized using StandardScaler.
 
