@@ -1,4 +1,4 @@
-# Predicting-Hazardous-NEOs-Nearest-Earth-Objects-
+# Predicting-Hazardous-NEOs-Nearest-Earth-Objects
 ## Abstract
 This project aims to predict whether a Near-Earth Object (NEO) is hazardous or not using machine learning models. By leveraging a dataset sourced from NASA, which contains information about NEOs from 1910 to 2024, we developed a comprehensive pattern recognition system. The primary goal is to enhance the accuracy and speed of identifying potentially hazardous NEOs, providing valuable insights for planetary defense initiatives. This documentation outlines the methodology, implementation, and evaluation of the developed system, demonstrating its potential to contribute significantly to space safety efforts.
 
